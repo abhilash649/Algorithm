@@ -1,4 +1,3 @@
-#cycle Detection for an undirected Graph Using adjacency list
 from collections import defaultdict
 
 class Graph:
